@@ -16,9 +16,13 @@ Kullanılan algoritma:
 Projede gerçekleştirilen çalışma sonucunda elde edilen temel metrikler:
 
 -Accuracy: 0.93
+
 -Precision: 0.89
+
 -Recall: 0.94
+
 -F1-score: 0.93
+
 -ROC-AUC: 0.98
 
 Bu sonuçlar, Logistic Regression modelinin TF-IDF ile vektörleştirilmiş haber metinleri üzerinde yüksek başarıyla çalıştığını göstermektedir.ROC eğrisi neredeyse ideal bir sınıflandırıcıya işaret etmektedir.
@@ -50,4 +54,5 @@ Bu proje, NLP ve metin sınıflandırma konularında kariyer hedefleri doğrultu
 Linkler
 
 https://www.kaggle.com/code/emreyoruk/fakeorreal
+
 https://www.kaggle.com/datasets/vikasukani/news-data-set-fake-news-with-python
