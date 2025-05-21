@@ -51,7 +51,7 @@ Bu projede, klasik makine öğrenmesi yöntemleriyle haberlerin sahte olup olmad
 
 Bu proje, NLP ve metin sınıflandırma konularında kariyer hedefleri doğrultusunda geliştirilebilir ve genişletilebilir.
 
-Linkler
+## Linkler
 
 https://www.kaggle.com/code/emreyoruk/fakeorreal
 
